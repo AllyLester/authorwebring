@@ -9,9 +9,14 @@
         "url": "https://nelliris.wordpress.com/",
         "feed": ""
     },
+        {
+        "title": "Holly Day",
+        "url": "https://hollydaywrites.wordpress.com/",
+        "feed": ""
+    },
     {
         "title": "A. L. Lester",
         "url": "https://allester.co.uk/blog-posts/",
-        "feed": ""
+        "feed": "https://allester.co.uk/feed/"
     }
 ]

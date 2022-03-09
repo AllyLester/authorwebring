@@ -1,10 +1,12 @@
 ---
 layout: page
-title: 'Code of Conduct'
+title: 'More about us.'
 ---
 
-# Code of Conduct
+# More about us.
 
-This is an invitation-only webring run by Nell Iris, Ofelia Grand and A. L. Lester. We have a topic each month that all members blog about and then share. You don't need to join in every month, but if you miss a few months in a row without talking to us about it, you might be removed from the ring. 
+This is an invitation-only webring run by Nell Iris, Ofelia Grand and A. L. Lester. Please contact any one of us for a chat if you'd like to know more about joining in.
+
+We have a topic each month that all members blog about and then share. You don't need to join in every month, but if you miss a few months in a row without talking to us about it, you might be removed from the ring. 
 
 The basic rule is to communicate :). Thank you!

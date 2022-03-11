@@ -9,6 +9,11 @@
         "url": "https://nelliris.wordpress.com/",
         "feed": "https://nelliris.wordpress.com/feed/"
     },
+        {
+        "title": "A. L. Lester",
+        "url": "https://allester.co.uk/blog-posts/",
+        "feed": "https://allester.co.uk/feed/"
+    },
           {
         "title": "Lillian Francis",
         "url": "https://lillianfrancis.blogspot.com/",
@@ -24,9 +29,14 @@
         "url": "https://hollydaywrites.wordpress.com/",
         "feed": "https://hollydaywrites.wordpress.com/feed/"
     },
+        {
+        "title": "Amy Spector",
+        "url": "http://www.amyspectorauthor.com/blog/",
+        "feed": "http://www.amyspectorauthor.com/blog/feed/"
+    },
     {
-        "title": "A. L. Lester",
-        "url": "https://allester.co.uk/blog-posts/",
-        "feed": "https://allester.co.uk/feed/"
+        "title": "Ellie Thomas",
+        "url": "https://elliethomasromance.wordpress.com/",
+        "feed": "https://elliethomasromance.wordpress.com/feed/"
     }
 ]

@@ -34,6 +34,11 @@
         "url": "http://www.amyspectorauthor.com/blog/",
         "feed": "http://www.amyspectorauthor.com/blog/feed/"
     },
+               {
+        "title": "Addison Albright",
+        "url": "https://authoraddisonalbright.com/",
+        "feed": "https://authoraddisonalbright.com/feed/"
+    },
     {
         "title": "Ellie Thomas",
         "url": "https://elliethomasromance.wordpress.com/",
